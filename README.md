@@ -1,2 +1,6 @@
 # BITP-1113-Week02
+
 BITP 1113 Programming Technique -Week 02 Lab
+
+ASYIQ AFIQAH BINTI MOHD ASRI, B032610261
+
