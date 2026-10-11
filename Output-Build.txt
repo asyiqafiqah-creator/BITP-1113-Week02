@@ -1,0 +1,396 @@
+﻿Build started at 5:47 PM...
+1>------ Up-To-Date check: Project: Bandwidth, Configuration: Debug x64 ------
+1>Project is not up-to-date: 'C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\x64\Debug\Bandwidth.tlog\Bandwidth.lastbuildstate' file is missing.
+Waiting for background operations to complete...
+1>------ Build started: Project: Bandwidth, Configuration: Debug x64 ------
+1>Build started 10/9/2026 5:47:28 PM.
+1>     1>Target "_CheckForInvalidConfigurationAndPlatform" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "SetTelemetryEnvironmentVariables" depends on it):
+1>     1>Task "Message"
+1>       Done executing task "Message".
+1>       Task "Message"
+1>       Done executing task "Message".
+1>     1>Done building target "_CheckForInvalidConfigurationAndPlatform" in project "Bandwidth.vcxproj".
+1>     1>Target "SetTelemetryEnvironmentVariables" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.Cpp.DesignTime.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "Build" depends on it):
+1>       Task "SetEnv"
+1>       Done executing task "SetEnv".
+1>       Task "SetEnv"
+1>       Done executing task "SetEnv".
+1>       Task "SetEnv"
+1>       Done executing task "SetEnv".
+1>       Task "SetEnv"
+1>       Done executing task "SetEnv".
+1>       Task "SetEnv"
+1>       Done executing task "SetEnv".
+1>     1>Done building target "SetTelemetryEnvironmentVariables" in project "Bandwidth.vcxproj".
+1>     1>Target "_PrepareForBuild" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.BuildSteps.Targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "Build" depends on it):
+1>     1>Done building target "_PrepareForBuild" in project "Bandwidth.vcxproj".
+1>     1>Target "_PrepareForReferenceResolution" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "ResolveReferences" depends on it):
+1>     1>Done building target "_PrepareForReferenceResolution" in project "Bandwidth.vcxproj".
+1>     1>Target "BeforeResolveReferences" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "ResolveReferences" depends on it):
+1>     1>Done building target "BeforeResolveReferences" in project "Bandwidth.vcxproj".
+1>     1>Target "IgnoreJavaScriptOutputAssembly" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "AssignProjectConfiguration" depends on it):
+1>     1>Done building target "IgnoreJavaScriptOutputAssembly" in project "Bandwidth.vcxproj".
+1>     1>Target "AssignProjectConfiguration" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "ResolveReferences" depends on it):
+1>       Task "AssignProjectConfiguration"
+1>       Done executing task "AssignProjectConfiguration".
+1>     1>Done building target "AssignProjectConfiguration" in project "Bandwidth.vcxproj".
+1>     1>Target "_SplitProjectReferencesByFileExistence" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "PrepareProjectReferences" depends on it):
+1>     1>Done building target "_SplitProjectReferencesByFileExistence" in project "Bandwidth.vcxproj".
+1>     1>Target "_AddOutputPathToGlobalPropertiesToRemove" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_GetProjectReferenceTargetFrameworkProperties" depends on it):
+1>     1>Done building target "_AddOutputPathToGlobalPropertiesToRemove" in project "Bandwidth.vcxproj".
+1>     1>Target "_GetProjectReferenceTargetFrameworkProperties" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "PrepareProjectReferences" depends on it):
+1>       Task "MSBuild"
+1>       Done executing task "MSBuild".
+1>       Task "SetRidAgnosticValueForProjects"
+1>       Done executing task "SetRidAgnosticValueForProjects".
+1>     1>Done building target "_GetProjectReferenceTargetFrameworkProperties" in project "Bandwidth.vcxproj".
+1>     1>Target "PrepareProjectReferences" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "ResolveProjectReferences" depends on it):
+1>     1>Done building target "PrepareProjectReferences" in project "Bandwidth.vcxproj".
+1>     1>Target "ResolveProjectReferences" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "ResolveReferences" depends on it):
+1>     1>Done building target "ResolveProjectReferences" in project "Bandwidth.vcxproj".
+1>     1>Target "GetFrameworkPaths" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+1>     1>Done building target "GetFrameworkPaths" in project "Bandwidth.vcxproj".
+1>     1>Target "GetReferenceAssemblyPaths" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+1>     1>Done building target "GetReferenceAssemblyPaths" in project "Bandwidth.vcxproj".
+1>     1>Target "AddExternalIncludDirectoriesToPaths" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.Cpp.Current.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "SetBuildDefaultEnvironmentVariables" depends on it):
+1>     1>Done building target "AddExternalIncludDirectoriesToPaths" in project "Bandwidth.vcxproj".
+1>     1>Target "SetBuildDefaultEnvironmentVariables" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.Cpp.Current.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "PrepareForBuild" depends on it):
+1>       Task "SetEnv"
+1>       Done executing task "SetEnv".
+1>       Task "SetEnv"
+1>       Done executing task "SetEnv".
+1>       Task "SetEnv"
+1>       Done executing task "SetEnv".
+1>       Task "SetEnv"
+1>       Done executing task "SetEnv".
+1>       Task "SetEnv"
+1>       Done executing task "SetEnv".
+1>     1>Done building target "SetBuildDefaultEnvironmentVariables" in project "Bandwidth.vcxproj".
+1>     1>Target "GetResolvedWinMD" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "PrepareForBuild" depends on it):
+1>     1>Done building target "GetResolvedWinMD" in project "Bandwidth.vcxproj".
+1>     1>Target "_CheckWindowsSDKInstalled" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.Cpp.WindowsSDK.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "PrepareForBuild" depends on it):
+1>     1>Done building target "_CheckWindowsSDKInstalled" in project "Bandwidth.vcxproj".
+1>     1>Target "SetCABuildNativeEnvironmentVariables" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VisualStudio\v18.0\CodeAnalysis\Microsoft.CodeAnalysis.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "PrepareForBuild" depends on it):
+1>       Task "SetEnv"
+1>       Done executing task "SetEnv".
+1>     1>Done building target "SetCABuildNativeEnvironmentVariables" in project "Bandwidth.vcxproj".
+1>     1>Target "PrepareForBuild" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+1>       Task "MakeDir"
+1>       Done executing task "MakeDir".
+1>       Task "CheckVCToolsetVersion"
+1>       Done executing task "CheckVCToolsetVersion".
+1>       Task "VCMessage"
+1>       Done executing task "VCMessage".
+1>       Task "MakeDir"
+1>       Done executing task "MakeDir".
+1>     1>Done building target "PrepareForBuild" in project "Bandwidth.vcxproj".
+1>     1>Target "ResolveSDKReferences" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+1>     1>Done building target "ResolveSDKReferences" in project "Bandwidth.vcxproj".
+1>     1>Target "ExpandSDKReferences" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+1>     1>Done building target "ExpandSDKReferences" in project "Bandwidth.vcxproj".
+1>     1>Target "ResolveAssemblyReferences" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "ResolveReferences" depends on it):
+1>     1>Done building target "ResolveAssemblyReferences" in project "Bandwidth.vcxproj".
+1>     1>Target "AfterResolveReferences" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "ResolveReferences" depends on it):
+1>     1>Done building target "AfterResolveReferences" in project "Bandwidth.vcxproj".
+1>     1>Target "ResolveReferences" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "Build" depends on it):
+1>     1>Done building target "ResolveReferences" in project "Bandwidth.vcxproj".
+1>     1>Target "InitializeBuildStatus" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "Build" depends on it):
+1>       Task "ReadLinesFromFile"
+1>       Done executing task "ReadLinesFromFile".
+1>       Task "WriteLinesToFile"
+1>       Done executing task "WriteLinesToFile".
+1>       Task "Touch"
+1>       Done executing task "Touch".
+1>     1>Done building target "InitializeBuildStatus" in project "Bandwidth.vcxproj".
+1>     1>Target "BuildGenerateSourcesTraverse" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "BuildGenerateSources" depends on it):
+1>     1>Done building target "BuildGenerateSourcesTraverse" in project "Bandwidth.vcxproj".
+1>     1>Target "BeforeBuildGenerateSources" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.BuildSteps.Targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+1>     1>Done building target "BeforeBuildGenerateSources" in project "Bandwidth.vcxproj".
+1>     1>Target "PreBuildEvent" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+1>     1>Done building target "PreBuildEvent" in project "Bandwidth.vcxproj".
+1>     1>Target "_SelectedFiles" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "SelectCustomBuild" depends on it):
+1>     1>Done building target "_SelectedFiles" in project "Bandwidth.vcxproj".
+1>     1>Target "SelectCustomBuild" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "CustomBuild" depends on it):
+1>     1>Done building target "SelectCustomBuild" in project "Bandwidth.vcxproj".
+1>     1>Target "ComputeCustomBuildOutput" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "CustomBuild" depends on it):
+1>       Task "MakeDir"
+1>       Done executing task "MakeDir".
+1>     1>Done building target "ComputeCustomBuildOutput" in project "Bandwidth.vcxproj".
+1>     1>Target "CustomBuild" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+1>       Task "GetOutOfDateItems"
+1>       Done executing task "GetOutOfDateItems".
+1>       Task "GetOutOfDateItems"
+1>       Done executing task "GetOutOfDateItems".
+1>     1>Done building target "CustomBuild" in project "Bandwidth.vcxproj".
+1>     1>Target "CopyFileToFolders" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+1>       Task "GetOutOfDateItems"
+1>       Done executing task "GetOutOfDateItems".
+1>     1>Done building target "CopyFileToFolders" in project "Bandwidth.vcxproj".
+1>     1>Target "_Xsd" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+1>     1>Done building target "_Xsd" in project "Bandwidth.vcxproj".
+1>     1>Target "MakeDirsForMidl" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_Midl" depends on it):
+1>       Task "Makedir"
+1>       Done executing task "Makedir".
+1>     1>Done building target "MakeDirsForMidl" in project "Bandwidth.vcxproj".
+1>     1>Target "ComputeMIDLGeneratedCompileInputs" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_Midl" depends on it):
+1>     1>Done building target "ComputeMIDLGeneratedCompileInputs" in project "Bandwidth.vcxproj".
+1>     1>Target "AfterMidl" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_Midl" depends on it):
+1>     1>Done building target "AfterMidl" in project "Bandwidth.vcxproj".
+1>     1>Target "_Midl" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+1>     1>Done building target "_Midl" in project "Bandwidth.vcxproj".
+1>     1>Target "AfterBuildGenerateSources" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.BuildSteps.Targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+1>     1>Done building target "AfterBuildGenerateSources" in project "Bandwidth.vcxproj".
+1>     1>Target "AfterBuildGenerateSourcesEvent" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+1>     1>Done building target "AfterBuildGenerateSourcesEvent" in project "Bandwidth.vcxproj".
+1>     1>Target "_BuildGenerateSourcesAction" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "BuildGenerateSources" depends on it):
+1>     1>Done building target "_BuildGenerateSourcesAction" in project "Bandwidth.vcxproj".
+1>     1>Target "BuildGenerateSources" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "Build" depends on it):
+1>     1>Done building target "BuildGenerateSources" in project "Bandwidth.vcxproj".
+1>     1>Target "BuildCompileTraverse" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "BuildCompile" depends on it):
+1>     1>Done building target "BuildCompileTraverse" in project "Bandwidth.vcxproj".
+1>     1>Target "BeforeClCompile" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_ClCompile" depends on it):
+1>     1>Done building target "BeforeClCompile" in project "Bandwidth.vcxproj".
+1>     1>Target "ComputeCLInputPDBName" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_ClCompile" depends on it):
+1>     1>Done building target "ComputeCLInputPDBName" in project "Bandwidth.vcxproj".
+1>     1>Target "FindReferenceAssembliesForReferences" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "ComputeReferenceCLInput" depends on it):
+1>     1>Done building target "FindReferenceAssembliesForReferences" in project "Bandwidth.vcxproj".
+1>     1>Target "GetReferencedVCProjectsInfo" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "ComputeReferenceCLInput" depends on it):
+1>     1>Done building target "GetReferencedVCProjectsInfo" in project "Bandwidth.vcxproj".
+1>     1>Target "ComputeReferenceCLInput" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_ClCompile" depends on it):
+1>     1>Done building target "ComputeReferenceCLInput" in project "Bandwidth.vcxproj".
+1>     1>Target "WarnCompileDuplicatedFilename" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_ClCompile" depends on it):
+1>     1>Done building target "WarnCompileDuplicatedFilename" in project "Bandwidth.vcxproj".
+1>     1>Target "SetCppLanguageStandardCapabilities" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "ComputeStdModulesCompileInputs" depends on it):
+1>     1>Done building target "SetCppLanguageStandardCapabilities" in project "Bandwidth.vcxproj".
+1>     1>Target "ComputeStdModulesCompileInputs" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_ClCompile" depends on it):
+1>       Task "GetLibraryModuleSources"
+1>       Done executing task "GetLibraryModuleSources".
+1>     1>Done building target "ComputeStdModulesCompileInputs" in project "Bandwidth.vcxproj".
+1>     1>Target "FixupCLCompileOptions" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_ClCompile" depends on it):
+1>     1>Done building target "FixupCLCompileOptions" in project "Bandwidth.vcxproj".
+1>     1>Target "MakeDirsForCl" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "SetModuleDependencies" depends on it):
+1>       Task "MakeDir"
+1>       Done executing task "MakeDir".
+1>     1>Done building target "MakeDirsForCl" in project "Bandwidth.vcxproj".
+1>     1>Target "SetModuleDependencies" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_ClCompile" depends on it):
+1>       Task "MakeDir"
+1>       Done executing task "MakeDir".
+1>       Task "SetModuleDependencies"
+1>       Done executing task "SetModuleDependencies".
+1>     1>Done building target "SetModuleDependencies" in project "Bandwidth.vcxproj".
+1>     1>Target "SelectClCompile" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "ClCompile" depends on it):
+1>     1>Done building target "SelectClCompile" in project "Bandwidth.vcxproj".
+1>     1>Target "ClCompile" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_ClCompile" depends on it):
+1>       Task "Delete"
+1>       Done executing task "Delete".
+1>       Task "CL"
+1>         C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++20 /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc145.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt Bandwidth.cpp
+1>         Bandwidth.cpp
+1>       Done executing task "CL".
+1>     1>Done building target "ClCompile" in project "Bandwidth.vcxproj".
+1>     1>Target "AfterClCompile" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_ClCompile" depends on it):
+1>     1>Done building target "AfterClCompile" in project "Bandwidth.vcxproj".
+1>     1>Target "_ClCompile" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildCompileAction" depends on it):
+1>     1>Done building target "_ClCompile" in project "Bandwidth.vcxproj".
+1>     1>Target "BeforeResourceCompile" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_ResourceCompile" depends on it):
+1>     1>Done building target "BeforeResourceCompile" in project "Bandwidth.vcxproj".
+1>     1>Target "MakeDirsForResourceCompile" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_ResourceCompile" depends on it):
+1>       Task "MakeDir"
+1>       Done executing task "MakeDir".
+1>     1>Done building target "MakeDirsForResourceCompile" in project "Bandwidth.vcxproj".
+1>     1>Target "AfterResourceCompile" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_ResourceCompile" depends on it):
+1>     1>Done building target "AfterResourceCompile" in project "Bandwidth.vcxproj".
+1>     1>Target "_ResourceCompile" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildCompileAction" depends on it):
+1>     1>Done building target "_ResourceCompile" in project "Bandwidth.vcxproj".
+1>     1>Target "AfterBuildCompileEvent" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildCompileAction" depends on it):
+1>     1>Done building target "AfterBuildCompileEvent" in project "Bandwidth.vcxproj".
+1>     1>Target "_BuildCompileAction" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "BuildCompile" depends on it):
+1>     1>Done building target "_BuildCompileAction" in project "Bandwidth.vcxproj".
+1>     1>Target "BuildCompile" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "Build" depends on it):
+1>     1>Done building target "BuildCompile" in project "Bandwidth.vcxproj".
+1>     1>Target "BuildLinkTraverse" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "BuildLink" depends on it):
+1>     1>Done building target "BuildLinkTraverse" in project "Bandwidth.vcxproj".
+1>     1>Target "ComputeLegacyManifestEmbedding" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildLinkAction" depends on it):
+1>     1>Done building target "ComputeLegacyManifestEmbedding" in project "Bandwidth.vcxproj".
+1>     1>Target "BeforeLink" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_Link" depends on it):
+1>     1>Done building target "BeforeLink" in project "Bandwidth.vcxproj".
+1>     1>Target "ComputeRCOutputs" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "ComputeRCGeneratedLinkInputs" depends on it):
+1>     1>Done building target "ComputeRCOutputs" in project "Bandwidth.vcxproj".
+1>     1>Target "ComputeRCGeneratedLinkInputs" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_Link" depends on it):
+1>     1>Done building target "ComputeRCGeneratedLinkInputs" in project "Bandwidth.vcxproj".
+1>     1>Target "ComputeManifestGeneratedLinkerInputs" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_Link" depends on it):
+1>     1>Done building target "ComputeManifestGeneratedLinkerInputs" in project "Bandwidth.vcxproj".
+1>     1>Target "ComputeCLOutputs" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "ComputeCLGeneratedLinkInputs" depends on it):
+1>     1>Done building target "ComputeCLOutputs" in project "Bandwidth.vcxproj".
+1>     1>Target "ComputeCLGeneratedLinkInputs" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_Link" depends on it):
+1>     1>Done building target "ComputeCLGeneratedLinkInputs" in project "Bandwidth.vcxproj".
+1>     1>Target "ComputeLinkInputsFromProject" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_Link" depends on it):
+1>     1>Done building target "ComputeLinkInputsFromProject" in project "Bandwidth.vcxproj".
+1>     1>Target "ComputeManifestInputsTargets" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_Link" depends on it):
+1>     1>Done building target "ComputeManifestInputsTargets" in project "Bandwidth.vcxproj".
+1>     1>Target "AssignTargetPaths" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "PrepareResourceNames" depends on it):
+1>       Task "AssignTargetPath"
+1>       Done executing task "AssignTargetPath".
+1>       Task "AssignTargetPath"
+1>       Done executing task "AssignTargetPath".
+1>       Task "AssignTargetPath"
+1>       Done executing task "AssignTargetPath".
+1>       Task "AssignTargetPath"
+1>       Done executing task "AssignTargetPath".
+1>     1>Done building target "AssignTargetPaths" in project "Bandwidth.vcxproj".
+1>     1>Target "SplitResourcesByCulture" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "PrepareResourceNames" depends on it):
+1>       Task "AssignCulture"
+1>       Done executing task "AssignCulture".
+1>     1>Done building target "SplitResourcesByCulture" in project "Bandwidth.vcxproj".
+1>     1>Target "CreateCustomManifestResourceNames" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "PrepareResourceNames" depends on it):
+1>     1>Done building target "CreateCustomManifestResourceNames" in project "Bandwidth.vcxproj".
+1>     1>Target "PrepareResourceNames" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_Link" depends on it):
+1>     1>Done building target "PrepareResourceNames" in project "Bandwidth.vcxproj".
+1>     1>Target "MakeDirsForLink" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_Link" depends on it):
+1>       Task "MakeDir"
+1>       Done executing task "MakeDir".
+1>     1>Done building target "MakeDirsForLink" in project "Bandwidth.vcxproj".
+1>     1>Target "DoLinkOutputFilesMatch" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_Link" depends on it):
+1>     1>Done building target "DoLinkOutputFilesMatch" in project "Bandwidth.vcxproj".
+1>     1>Target "PreLinkEvent" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_Link" depends on it):
+1>     1>Done building target "PreLinkEvent" in project "Bandwidth.vcxproj".
+1>     1>Target "ComputeLinkSwitches" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "Link" depends on it):
+1>     1>Done building target "ComputeLinkSwitches" in project "Bandwidth.vcxproj".
+1>     1>Target "Link" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_Link" depends on it):
+1>       Task "Link"
+1>         C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\x64\Debug\Bandwidth.exe" /INCREMENTAL /ILK:"x64\Debug\Bandwidth.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\Include\Manifest\segmentheap.manifest" /DEBUG /PDB:"C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\x64\Debug\Bandwidth.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\x64\Debug\Bandwidth.lib" /MACHINE:X64 x64\Debug\Bandwidth.obj
+1>       Done executing task "Link".
+1>       Task "Message"
+1>         Bandwidth.vcxproj -> C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\x64\Debug\Bandwidth.exe
+1>       Done executing task "Message".
+1>     1>Done building target "Link" in project "Bandwidth.vcxproj".
+1>     1>Target "AfterLink" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_Link" depends on it):
+1>     1>Done building target "AfterLink" in project "Bandwidth.vcxproj".
+1>     1>Target "_Link" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildLinkAction" depends on it):
+1>     1>Done building target "_Link" in project "Bandwidth.vcxproj".
+1>     1>Target "_ALink" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildLinkAction" depends on it):
+1>     1>Done building target "_ALink" in project "Bandwidth.vcxproj".
+1>     1>Target "_Manifest" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildLinkAction" depends on it):
+1>     1>Done building target "_Manifest" in project "Bandwidth.vcxproj".
+1>     1>Target "RegisterOutput" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildLinkAction" depends on it):
+1>     1>Done building target "RegisterOutput" in project "Bandwidth.vcxproj".
+1>     1>Target "ResolvedXDCMake" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_XdcMake" depends on it):
+1>     1>Done building target "ResolvedXDCMake" in project "Bandwidth.vcxproj".
+1>     1>Target "ComputeCLCompileGeneratedXDCFiles" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_XdcMake" depends on it):
+1>     1>Done building target "ComputeCLCompileGeneratedXDCFiles" in project "Bandwidth.vcxproj".
+1>     1>Target "MakeDirsForXdcMake" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_XdcMake" depends on it):
+1>       Task "MakeDir"
+1>       Done executing task "MakeDir".
+1>     1>Done building target "MakeDirsForXdcMake" in project "Bandwidth.vcxproj".
+1>     1>Target "_XdcMake" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildLinkAction" depends on it):
+1>     1>Done building target "_XdcMake" in project "Bandwidth.vcxproj".
+1>     1>Target "ComputeCLCompileGeneratedSbrFiles" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BscMake" depends on it):
+1>     1>Done building target "ComputeCLCompileGeneratedSbrFiles" in project "Bandwidth.vcxproj".
+1>     1>Target "MakeDirsForBscMake" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BscMake" depends on it):
+1>       Task "MakeDir"
+1>       Done executing task "MakeDir".
+1>     1>Done building target "MakeDirsForBscMake" in project "Bandwidth.vcxproj".
+1>     1>Target "_BscMake" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildLinkAction" depends on it):
+1>     1>Done building target "_BscMake" in project "Bandwidth.vcxproj".
+1>     1>Target "BuiltProjectOutputGroup" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "CreateRecipeFile" depends on it):
+1>     1>Done building target "BuiltProjectOutputGroup" in project "Bandwidth.vcxproj".
+1>     1>Target "SatelliteDllsProjectOutputGroup" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "CreateRecipeFile" depends on it):
+1>     1>Done building target "SatelliteDllsProjectOutputGroup" in project "Bandwidth.vcxproj".
+1>     1>Target "MakeDirsForFxc" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "ContentFilesProjectOutputGroup" depends on it):
+1>       Task "MakeDir"
+1>       Done executing task "MakeDir".
+1>     1>Done building target "MakeDirsForFxc" in project "Bandwidth.vcxproj".
+1>     1>Target "ContentFilesProjectOutputGroup" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "CreateRecipeFile" depends on it):
+1>     1>Done building target "ContentFilesProjectOutputGroup" in project "Bandwidth.vcxproj".
+1>     1>Target "CreateRecipeFile" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildLinkAction" depends on it):
+1>       Task "GenerateDesktopDeployRecipe"
+1>       Done executing task "GenerateDesktopDeployRecipe".
+1>     1>Done building target "CreateRecipeFile" in project "Bandwidth.vcxproj".
+1>     1>Target "_GenerateSatelliteAssemblyInputs" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "CreateSatelliteAssemblies" depends on it):
+1>     1>Done building target "_GenerateSatelliteAssemblyInputs" in project "Bandwidth.vcxproj".
+1>     1>Target "CreateSatelliteAssemblies" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildLinkAction" depends on it):
+1>     1>Done building target "CreateSatelliteAssemblies" in project "Bandwidth.vcxproj".
+1>     1>Target "_Appverifier" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildLinkAction" depends on it):
+1>     1>Done building target "_Appverifier" in project "Bandwidth.vcxproj".
+1>     1>Target "_Deploy" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildLinkAction" depends on it):
+1>     1>Done building target "_Deploy" in project "Bandwidth.vcxproj".
+1>     1>Target "_PopulateCommonStateForGetCopyToOutputDirectoryItems" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "GetCopyToOutputDirectoryItems" depends on it):
+1>     1>Done building target "_PopulateCommonStateForGetCopyToOutputDirectoryItems" in project "Bandwidth.vcxproj".
+1>     1>Target "GetCopyToOutputDirectoryXamlAppDefs" in file "C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "GetCopyToOutputDirectoryItems" depends on it):
+1>       Task "AssignTargetPath"
+1>       Done executing task "AssignTargetPath".
+1>     1>Done building target "GetCopyToOutputDirectoryXamlAppDefs" in project "Bandwidth.vcxproj".
+1>     1>Target "GetCopyToOutputDirectoryItems" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_CopySourceItemsToOutputDirectory" depends on it):
+1>       Task "CallTarget"
+1>     1>Target "_GetCopyToOutputDirectoryItemsFromTransitiveProjectReferences" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "GetCopyToOutputDirectoryItems" depends on it):
+1>       Task "AssignTargetPath"
+1>       Done executing task "AssignTargetPath".
+1>     1>Done building target "_GetCopyToOutputDirectoryItemsFromTransitiveProjectReferences" in project "Bandwidth.vcxproj".
+1>       Done executing task "CallTarget".
+1>       Task "CallTarget"
+1>     1>Target "_GetCopyToOutputDirectoryItemsFromThisProject" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "GetCopyToOutputDirectoryItems" depends on it):
+1>       Task "AssignTargetPath"
+1>       Done executing task "AssignTargetPath".
+1>     1>Done building target "_GetCopyToOutputDirectoryItemsFromThisProject" in project "Bandwidth.vcxproj".
+1>       Done executing task "CallTarget".
+1>     1>Done building target "GetCopyToOutputDirectoryItems" in project "Bandwidth.vcxproj".
+1>     1>Target "_CopySourceItemsToOutputDirectory" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "CopyFilesToOutputDirectory" depends on it):
+1>     1>Done building target "_CopySourceItemsToOutputDirectory" in project "Bandwidth.vcxproj".
+1>     1>Target "_CheckForCompileOutputs" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "CopyFilesToOutputDirectory" depends on it):
+1>     1>Done building target "_CheckForCompileOutputs" in project "Bandwidth.vcxproj".
+1>     1>Target "CopyFilesToOutputDirectory" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "PrepareForRun" depends on it):
+1>     1>Done building target "CopyFilesToOutputDirectory" in project "Bandwidth.vcxproj".
+1>     1>Target "PrepareForRun" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildLinkAction" depends on it):
+1>     1>Done building target "PrepareForRun" in project "Bandwidth.vcxproj".
+1>     1>Target "PostBuildEvent" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "_BuildLinkAction" depends on it):
+1>     1>Done building target "PostBuildEvent" in project "Bandwidth.vcxproj".
+1>     1>Target "_BuildLinkAction" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "BuildLink" depends on it):
+1>     1>Done building target "_BuildLinkAction" in project "Bandwidth.vcxproj".
+1>     1>Target "BuildLink" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "Build" depends on it):
+1>     1>Done building target "BuildLink" in project "Bandwidth.vcxproj".
+1>     1>Target "AfterBuild" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.BuildSteps.Targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "Build" depends on it):
+1>     1>Done building target "AfterBuild" in project "Bandwidth.vcxproj".
+1>     1>Target "_CleanGetCurrentAndPriorFileWrites" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "IncrementalClean" depends on it):
+1>       Task "ReadLinesFromFile"
+1>       Done executing task "ReadLinesFromFile".
+1>       Task "ConvertToAbsolutePath"
+1>       Done executing task "ConvertToAbsolutePath".
+1>       Task "FindUnderPath"
+1>       Done executing task "FindUnderPath".
+1>       Task "FindUnderPath"
+1>       Done executing task "FindUnderPath".
+1>       Task "FindUnderPath"
+1>       Done executing task "FindUnderPath".
+1>       Task "RemoveDuplicates"
+1>       Done executing task "RemoveDuplicates".
+1>     1>Done building target "_CleanGetCurrentAndPriorFileWrites" in project "Bandwidth.vcxproj".
+1>     1>Target "IncrementalClean" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "Build" depends on it):
+1>       Task "FindUnderPath"
+1>       Done executing task "FindUnderPath".
+1>       Task "FindUnderPath"
+1>       Done executing task "FindUnderPath".
+1>       Task "Delete"
+1>       Done executing task "Delete".
+1>       Task "RemoveDuplicates"
+1>       Done executing task "RemoveDuplicates".
+1>     1>Done building target "IncrementalClean" in project "Bandwidth.vcxproj".
+1>     1>Target "TlogCleanup" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "Build" depends on it):
+1>       Task "CleanupStaleTlogItems"
+1>       Done executing task "CleanupStaleTlogItems".
+1>     1>Done building target "TlogCleanup" in project "Bandwidth.vcxproj".
+1>     1>Target "FinalizeBuildStatus" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (target "Build" depends on it):
+1>       Task "Delete"
+1>       Done executing task "Delete".
+1>       Task "Touch"
+1>       Done executing task "Touch".
+1>     1>Done building target "FinalizeBuildStatus" in project "Bandwidth.vcxproj".
+1>     1>Target "Build" in file "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.BuildSteps.Targets" from project "C:\Users\USER\OneDrive\Documents\BITP1113-Week02\Lab02\Bandwidth\Bandwidth.vcxproj" (entry point):
+1>     1>Done building target "Build" in project "Bandwidth.vcxproj".
+1>
+1>Build succeeded.
+1>    0 Warning(s)
+1>    0 Error(s)
+1>
+1>Time Elapsed 00:00:02.12
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 5:47 PM and took 04.356 seconds ==========

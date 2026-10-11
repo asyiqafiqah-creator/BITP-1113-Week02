@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DownloadTime/DownloadTime.vcxproj" Id="e4f50eba-2519-4886-a990-05c92bd066ac" />
+  <Project Path="StreamingData/StreamingData.vcxproj" Id="a89f2bfe-125a-4dd7-b19d-68c4ec3256a0" />
+</Solution>

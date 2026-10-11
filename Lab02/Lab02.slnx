@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Bandwidth/Bandwidth.vcxproj" Id="e48324c5-489d-4670-ab59-4bed793b0f64" />
+</Solution>
